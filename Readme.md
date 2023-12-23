@@ -16,7 +16,7 @@ Community Governance: Amun-Swap is governed by its community, ensuring a decentr
 🚀 Getting Started
 To get started with Amun-Swap:
 
-Clone the repository: git clone [https://github.com/[YourUsername](https://github.com/AmunRaCode/Amun-SwapAmun-Swap.git]
+Clone the repository: git clone https://github.com/AmunRaCode/Amun-SwapAmun-Swap.git
 Install dependencies: npm install
 Start the local development server: npm start
 🤝 Contributing
